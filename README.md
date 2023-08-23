@@ -1,3 +1,3 @@
-# BPHWWEEk1
+# BPHWWEEK1
 
 Working on the homework :)
