@@ -1,3 +1,3 @@
-# BPHWWEEK1
+# BP_HW
 
 Working on the homework :)
